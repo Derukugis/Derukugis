@@ -1,3 +1,3 @@
-- Hey, I’m @Derukugis
-- I Like cybersecurity and game modification and developments
+- Hey, I’m @Derukugis, you can call me Derukugi or Deru
+- I Like cybersecurity, game modification and game development
 - I'm currently learning how to script in lua and use cheat engine
