@@ -1,6 +1,6 @@
-- Hey, I’m @Derukugis, you can call me Derukugi or Deru
-- I Like cybersecurity, game modification and game development
-- I'm currently learning how to script in lua and use cheat engine
+- Hey, I’m @Derukugis
+- I Like cybersecurity, game modification / game development, AI Machine Learning, and web development.
+- I'm currently learning how to like code cool stuff
 
 ![Derukugi's GitHub stats](https://github-readme-stats.vercel.app/api?username=derukugis&show_icons=true&theme=tokyonight) ![Derukugi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Derukugis&theme=tokyonight&hide_border=false) 
 <br>
