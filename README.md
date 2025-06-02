@@ -3,7 +3,7 @@ I like Linux, Rust, information security and penetration testing.
 
 Most of the code on my public repos is really old, i am NOT that bad at programming anymore,,
 
-![Derukugis's Stats](https://github-readme-stats.vercel.app/api?username=Derukugis&theme=nord&show_icons=true&hide_border=false&count_private=true)
+![Derukugis's Stats](https://github-readme-stats.vercel.app/api?username=Derukugis&theme=transparent&show_icons=true&hide_border=false&count_private=true)
 <br>
 ![Derukugis's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Derukugis&theme=nord&hide_border=false)
 <br>
